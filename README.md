@@ -17,3 +17,5 @@ How to Play:
 5.   The game will update the health status of both players after each round.
 6.   Keep playing until one of the players' health status reaches zero.
 7.   Reset the game once the battle's over.
+
+Have fun playing!
